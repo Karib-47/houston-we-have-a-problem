@@ -1,0 +1,4 @@
+[CRITICAL] Houston, we have a problem!: Unhandled exception occurred in module alpha-3.
+INFO: System running normally.
+Warning: minor issue detected.
+ERROR: Failure in subsystem beta-2.
